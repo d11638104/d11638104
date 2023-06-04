@@ -1,12 +1,19 @@
 # Fandy 🏸️
+
 ## Hi there 👋, this is fandy🏸️
 
+- 🐶  误入农学的计算机狗
+- ✍️  neovim 臭虫修理工
+- 🏸️  只会打高远球
+- 
 
 ## 🧐 Programming Languages & Skills
 
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+
+  ### 🤏  只会一点点
 
 ## 💻 Working Environment
 
