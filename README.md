@@ -1,10 +1,10 @@
 # Fandy 🏸️
-  ### 🐶 误入农学的计算机狗
-  ### ✍️ neovim 臭虫修理工
-  ### 🏸️ 只会打高远球
-  ### 😡 Fortran是屑
-  ### 😡 C#也是
-  ### 😡 还有R，还有...
+  - 🐶 误入农学的计算机狗
+  - ✍️ neovim 臭虫修理工
+  - 🏸️ 只会打高远球
+  - 😡 Fortran是屑
+  - 😡 C#也是
+  - 😡 还有R，还有...
   
 ## 🧐 Programming Languages & Skills
 
@@ -15,8 +15,15 @@
 ## 💻 Working Environment
 
 ![macOS](https://img.shields.io/badge/macOS-%23.svg?style=flat-square&logo=apple&color=000000&logoColor=white)
+
+🎉好用，我用！！！
+
 ![Linux](https://img.shields.io/badge/Linux-%23.svg?style=flat-square&logo=linux&color=FCC624&logoColor=black)
+
+😍好用，我用！！！
+
 ![Windows](https://img.shields.io/badge/Windows-%23.svg?style=flat-square&logo=windows&color=0078D6&logoColor=white)
+
 🐶 这玩意狗不用，我用！！！
 
 ## 🤔️ Stats
