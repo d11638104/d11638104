@@ -4,8 +4,10 @@
 ![Windows](https://img.shields.io/badge/Windows-%23.svg?logo=windows&color=0078D6&logoColor=white)
 
 ### Stats 😁
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=d11638104&show_icons=true&theme=dark&count_private=true)
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d11638104&theme=dark&layout=compact)
 <!--
 **d11638104/d11638104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
